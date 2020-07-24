@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FnO App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Welcome To FnO App</string>
+    <string name="nav_header_subtitle">prasad.mukne@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="menu_default_page">Default Page</string>
+    <string name="menu_add_page">Add Page</string>
+    <string name="enter_page_name">Enter Page Name Here</string>
+    <string name="button_add_page">Add Page</string>
+    <string name="name_exists">Fragment with same name already exists. Choose another Name</string>
+    <string name="empty_name">Fragment Name can not be empty</string>
+    <string name="delete_dialog_confirm">Confirm Delete</string>
+    <string name="delete_dialog_message">Are you sure you want to delete this Fragment?</string>
+</resources>
